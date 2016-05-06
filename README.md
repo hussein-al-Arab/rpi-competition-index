@@ -26,4 +26,6 @@ Follows are short description and links to project entries in the IEA Raspberry 
 
 [Official Secondary School Zahle - Project 2 - Techno Parking Guard](https://github.com/eliasazzam/TPG)
 
+[Lycée ullama Sobhi Mahmasani LUSM - Projet 1 - Safety-Truck ] (https://github.com/hussein-al-Arab/Safety-Truck-.)
+
 [Lycée Laure Mghayzel - Guarded Wayfarer](https://github.com/ritasaad/Guarded-Wayfarer)
